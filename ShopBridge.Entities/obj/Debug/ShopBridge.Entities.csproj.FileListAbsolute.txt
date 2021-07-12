@@ -1,0 +1,11 @@
+D:\www\ShopBridge\ShopBridge.Entities\bin\Debug\ShopBridge.Entities.dll
+D:\www\ShopBridge\ShopBridge.Entities\bin\Debug\ShopBridge.Entities.pdb
+D:\www\ShopBridge\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.dll
+D:\www\ShopBridge\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.pdb
+D:\www\ShopBridge\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.csproj.CoreCompileInputs.cache
+D:\www\ShopBridge\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.csprojAssemblyReference.cache
+C:\Users\suchendra.merugu\Desktop\Thinkbridge\ShopBridge-master\ShopBridge.Entities\bin\Debug\ShopBridge.Entities.dll
+C:\Users\suchendra.merugu\Desktop\Thinkbridge\ShopBridge-master\ShopBridge.Entities\bin\Debug\ShopBridge.Entities.pdb
+C:\Users\suchendra.merugu\Desktop\Thinkbridge\ShopBridge-master\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.csprojAssemblyReference.cache
+C:\Users\suchendra.merugu\Desktop\Thinkbridge\ShopBridge-master\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.dll
+C:\Users\suchendra.merugu\Desktop\Thinkbridge\ShopBridge-master\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.pdb
